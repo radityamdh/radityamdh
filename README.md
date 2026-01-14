@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radityamdh
-- 👀 I’m interested in software engineer and editor
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software engineer and editor 
+- 🌱 I’m currently learning python and HTML. 
+- 💞️ I’m looking to collaborate with some developers.
 - 📫 I'm reach this passion with make some exercise and never forget it. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: he is the first Indonesian person in spacehey. 
