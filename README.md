@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @radityamdh
 - 👀 I’m interested in software engineer and editor
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I'm reach this passion with make some exercise and never forget it. 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: he is the first Indonesian person in spacehey. 
 
 <!---
 radityamdh/radityamdh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
